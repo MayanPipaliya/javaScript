@@ -85,9 +85,5 @@ book1.checkAvailable();
 
 book1.returnBook();
 book1.checkAvailable();
-
-for (let i = 0; i < 5; i++) {
-    book1.buyBook();
-}
  
 book1.checkAvailable();
